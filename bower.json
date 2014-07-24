@@ -1,0 +1,20 @@
+{
+  "name": "pocketsphinx.js-fr_FR-lium_french_f0",
+  "version": "0.1.0",
+  "authors": [
+    "Sylvain Chevalier <sylvain.chevalier@gmail.com>"
+  ],
+  "description": "LIUM French acoustic model for Pocketsphinx.js",
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pocketsphinx.js-lib": ""
+  }
+}
